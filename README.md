@@ -14,3 +14,13 @@ $ sudo update-rc.d seafile-server defaults
 ```
 
 Reboot the server machine, the Seafile should be started automatically.
+
+# References
+
+Install seafile on a raspberry:
+
+https://medium.com/swlh/building-a-file-server-on-a-raspberry-pi-with-seafile-d972bad14688
+
+Seafile Community Setup on Linux
+
+https://manual.seafile.com/deploy/
